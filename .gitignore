@@ -44,3 +44,4 @@ htmlcov/
 
 # Ignore the trained model as it exceeds githubs free size limit of 100.00 MB. Uploaded on google drive instead. 
 query_classifier
+https://drive.google.com/drive/folders/1LSG32NcmLa0Ap3XxwlAW_6NS9V_TqFv7?usp=sharing
